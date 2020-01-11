@@ -1,8 +1,11 @@
 import React from 'react'
 
 class Settings extends React.Component{
-    constructor(){
-
+    constructor(props){
+        super(props)
+        this.state={
+            
+        }
     }
 
 
@@ -13,3 +16,5 @@ class Settings extends React.Component{
     }
 
 }
+
+export default Settings;

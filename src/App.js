@@ -1,11 +1,9 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import GoogleAwards from './container/googleAward'
 
 function App() {
   return (
-    <div>
-    </div>
+    <GoogleAwards/>
   );
 }
 
