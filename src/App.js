@@ -1,5 +1,5 @@
 import React from 'react';
-import GoogleAwards from './container/googleAward'
+import GoogleAwards from './component/googleAward'
 
 function App() {
   return (

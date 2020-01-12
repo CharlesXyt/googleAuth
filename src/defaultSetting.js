@@ -41,4 +41,12 @@ const defaultSettings = {
     
 } 
 
-export default defaultSettings;
+const allDefaultKeywords = ['Shoes', 'Shoes carnival', 'Shoes palace', 'shoe stores near me', 'shoes for crew', 'shoes station', 'Shoes repair', 'Shoes for women', 'Shoes for fashion week', 'Shoes for instagram', 'Shoes stories', 'Shoes show']
+
+const allDefaultWebsites = [['www.dockers.com', 'www.adidas.com', 'www.nike.com', 'www.underarmour.com', 'www.newbalance.com', 'www.puma.com', 'www.prada.com', 'www.fredperry.com', 'www.catapillar.com', 'www.gucci.com', 'www.almonds.com', 'www.brunoarmagio.com']]
+
+export {
+    defaultSettings,
+    allDefaultKeywords,
+    allDefaultWebsites
+};

@@ -1,6 +1,10 @@
 import React from 'react'
 import UserAdd from './UserAdd/UserAdd'
-import defaultSettings from '../defaultSetting'
+import {
+    defaultSettings,
+    allDefaultKeywords,
+    allDefaultWebsites
+} from '../defaultSetting'
 import Settings from './Settings/Settings'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faTag,faTv,faCog } from '@fortawesome/free-solid-svg-icons'
@@ -27,7 +31,7 @@ export default props => {
                         <Typography variant="h5" gutterBottom>Keywords</Typography>
                     </Grid> 
                 </Grid>
-                <UserAdd label="Keywords" allitems={['Shoes', 'Shoes carnival', 'Shoes palace', 'shoe stores near me', 'shoes for crew', 'shoes station', 'Shoes repair', 'Shoes for women', 'Shoes for fashion week', 'Shoes for instagram', 'Shoes stories', 'Shoes show']}/>
+                <UserAdd label="Keywords" allitems={allDefaultKeywords}/>
             </Grid>
             <Grid key="website" item xs={3}> 
                 <Grid container>
@@ -38,7 +42,7 @@ export default props => {
                         <Typography variant="h5" gutterBottom>Websites</Typography>
                     </Grid> 
                 </Grid>
-                <UserAdd label="Websites" allitems={['www.dockers.com', 'www.adidas.com', 'www.nike.com', 'www.underarmour.com', 'www.newbalance.com', 'www.puma.com', 'www.prada.com', 'www.fredperry.com', 'www.catapillar.com', 'www.gucci.com', 'www.almonds.com', 'www.brunoarmagio.com']}/>
+                <UserAdd label="Websites" allitems={allDefaultWebsites}/>
             </Grid>
             <Grid key="settings" item xs={5}>
                 <Grid container>
