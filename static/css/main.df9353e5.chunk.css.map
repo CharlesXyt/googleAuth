@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,UAEE,sBAAuB,CACvB,wBAAyB,CACzB,UAAW,CACX,qBACD,CAEA,aACG,iBAAkB,CAClB,YACH","file":"main.df9353e5.chunk.css","sourcesContent":["html,\nbody{\n  font-family: sans-serif;\n  background-color: #28384f;\n  color: #fff;\n  box-sizing: border-box;\n }\n\n .googleAward{\n    text-align: center;\n    padding: 20px\n }"]}

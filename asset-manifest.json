@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/google-award/static/css/main.df9353e5.chunk.css",
+    "main.js": "/google-award/static/js/main.9b86b2f5.chunk.js",
+    "main.js.map": "/google-award/static/js/main.9b86b2f5.chunk.js.map",
+    "runtime-main.js": "/google-award/static/js/runtime-main.7f863880.js",
+    "runtime-main.js.map": "/google-award/static/js/runtime-main.7f863880.js.map",
+    "static/js/2.4d221d1d.chunk.js": "/google-award/static/js/2.4d221d1d.chunk.js",
+    "static/js/2.4d221d1d.chunk.js.map": "/google-award/static/js/2.4d221d1d.chunk.js.map",
+    "index.html": "/google-award/index.html",
+    "precache-manifest.1314edc91078a18c30b0e7531e53c2c1.js": "/google-award/precache-manifest.1314edc91078a18c30b0e7531e53c2c1.js",
+    "service-worker.js": "/google-award/service-worker.js",
+    "static/css/main.df9353e5.chunk.css.map": "/google-award/static/css/main.df9353e5.chunk.css.map",
+    "static/js/2.4d221d1d.chunk.js.LICENSE": "/google-award/static/js/2.4d221d1d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f863880.js",
+    "static/js/2.4d221d1d.chunk.js",
+    "static/css/main.df9353e5.chunk.css",
+    "static/js/main.9b86b2f5.chunk.js"
+  ]
+}
