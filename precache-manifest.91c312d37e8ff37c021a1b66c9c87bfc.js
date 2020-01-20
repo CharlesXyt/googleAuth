@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8c8d7b0d52a72f59942add2871123a7",
+    "revision": "2d11b532dfa2aab75f6b7f6d1ca67cdd",
     "url": "/google-award/index.html"
   },
   {
-    "revision": "9612787409708a3b5c95",
+    "revision": "e0426967a8d6cb4a7f34",
     "url": "/google-award/static/css/main.df9353e5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/google-award/static/js/2.4d221d1d.chunk.js.LICENSE"
   },
   {
-    "revision": "9612787409708a3b5c95",
-    "url": "/google-award/static/js/main.9b86b2f5.chunk.js"
+    "revision": "e0426967a8d6cb4a7f34",
+    "url": "/google-award/static/js/main.4084a207.chunk.js"
   },
   {
     "revision": "4fa1ce32ebd1bc0ebb18",
